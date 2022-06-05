@@ -62,3 +62,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+1. tuliskan syntax di dalam project lewat cmd "composer install"
+2. copy .env lalu kaitkan sesuai nama database di mysql
+3. tuliskan syntax di dalam project lewat cmd "php artisan migrate"
+4. run : php artisan serve
+
